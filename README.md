@@ -1,16 +1,42 @@
-## Hi there 👋
 
-<!--
-**windischb/windischb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="assets/dark-flat.svg#gh-dark-mode-only" width="250" alt="COCOAR Logo">
+  <img src="assets/light-flat.svg#gh-light-mode-only" width="250" alt="COCOAR Logo">
+</p>
 
-Here are some ideas to get you started:
+# Hi, I’m Bernhard Windisch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Senior Software Architect (C# & Angular) | Founder of [COCOAR](https://cocoar.dev) | Clean Architecture & Event-Sourcing Enthusiast**
+
+---
+
+## What I’m working on
+I’m building **COCOAR – Code Connected Architecture**, a growing ecosystem of open-source libraries and tools that embrace:  
+- Clean Architecture principles  
+- Event-Sourcing as a backbone for scalable applications  
+- Modern .NET (C#) and Angular development  
+
+---
+
+## Current Libraries
+- [Cocoar.Configuration](https://github.com/cocoar-dev/Cocoar.Configuration)  
+  Deterministic, strongly-typed, rule-driven configuration layering for .NET.
+
+---
+
+## In Progress
+- Reflectensions → reflection utilities made simple  
+- FluentJsonConverter → fluent and type-safe JSON conversions  
+- PortTunneler → lightweight developer proxy/tunneling  
+
+---
+
+## Where to find me
+- [COCOAR GitHub Org](https://github.com/cocoar-dev)  
+- [LinkedIn](https://www.linkedin.com/in/…)  
+- [Twitter/X](https://twitter.com/…)  
+- [cocoar.dev](https://cocoar.dev)
+
+---
+
+Passionate about designing **robust, event-driven systems** and sharing knowledge through open source.
