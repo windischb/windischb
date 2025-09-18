@@ -1,7 +1,7 @@
 
 <p align="center">
-  <img src="assets/dark-flat.svg#gh-dark-mode-only" width="250" alt="COCOAR Logo">
-  <img src="assets/light-flat.svg#gh-light-mode-only" width="250" alt="COCOAR Logo">
+  <img src="assets/light-flat.svg#gh-dark-mode-only" width="250" alt="COCOAR Logo">
+  <img src="assets/dark-flat.svg#gh-light-mode-only" width="250" alt="COCOAR Logo">
 </p>
 
 # Hi, I’m Bernhard Windisch
