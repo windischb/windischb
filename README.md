@@ -11,7 +11,9 @@
 ---
 
 ## What I’m working on
-I’m building **COCOAR – Code Connected Architecture**, a growing ecosystem of open-source libraries and tools that embrace:  
+
+I’m building **COCOAR – Code Connected Architecture**, a growing ecosystem of open-source libraries and tools focused on:
+
 - Clean Architecture principles  
 - Event-Sourcing as a backbone for scalable applications  
 - Modern .NET (C#) and Angular development  
@@ -19,15 +21,17 @@ I’m building **COCOAR – Code Connected Architecture**, a growing ecosystem o
 ---
 
 ## Current Libraries
+
 - [Cocoar.Configuration](https://github.com/cocoar-dev/Cocoar.Configuration)  
   Deterministic, strongly-typed, rule-driven configuration layering for .NET.
 
 ---
 
-## In Progress
-- Reflectensions → reflection utilities made simple  
-- FluentJsonConverter → fluent and type-safe JSON conversions  
-- PortTunneler → lightweight developer proxy/tunneling  
+## In Progress *(coming soon)*
+
+- **Reflectensions** – reflection utilities made simple  
+- **FluentJsonConverter** – fluent and type-safe JSON conversions  
+- **PortTunneler** – lightweight developer proxy/tunneling  
 
 ---
 
