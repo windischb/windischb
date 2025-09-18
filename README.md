@@ -4,7 +4,7 @@
   <img src="assets/dark-flat.svg#gh-light-mode-only" width="250" alt="COCOAR Logo">
 </p>
 
-# Hi, I’m Bernhard Windisch
+# Hi, I’m Bernhard
 
 **Senior Software Architect (C# & Angular) | Founder of [COCOAR](https://cocoar.dev) | Clean Architecture & Event-Sourcing Enthusiast**
 
@@ -33,8 +33,8 @@ I’m building **COCOAR – Code Connected Architecture**, a growing ecosystem o
 
 ## Where to find me
 - [COCOAR GitHub Org](https://github.com/cocoar-dev)  
-- [LinkedIn](https://www.linkedin.com/in/…)  
-- [Twitter/X](https://twitter.com/…)  
+- [LinkedIn](https://www.linkedin.com/in/windischb/)  
+- [Twitter/X](https://x.com/windischb4)  
 - [cocoar.dev](https://cocoar.dev)
 
 ---
